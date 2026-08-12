@@ -10,7 +10,7 @@ public class entrada_de_dados {
 
         System.out.print("Digite o primeiro numero: ");
         numero1 = entrada.nextInt();
-        System.out.print("Digite o segundo numero; ");
+        System.out.print("Digite o segundo numero: ");
         numero2 = entrada.nextInt();
         soma = numero1 + numero2;
         System.out.println("A soma dos numeros é: " + soma);
