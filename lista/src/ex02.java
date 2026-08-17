@@ -5,7 +5,7 @@ public class ex02 {
         
         Scanner entrada = new Scanner(System.in);
 
-        int nota1, nota2, nota3, média; 
+        double nota1, nota2, nota3, média; 
 
         System.out.print("Digite sua primeira nota: ");
         nota1 = entrada.nextInt();
